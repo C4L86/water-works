@@ -4,6 +4,7 @@ ruby "2.3.0"
 
 gem "administrate", "~> 0.2.2"
 gem "autoprefixer-rails"
+gem "carrierwave"
 gem "delayed_job_active_record"
 gem "devise"
 gem "flutie"
